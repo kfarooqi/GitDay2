@@ -13,5 +13,7 @@ public static void main(String[] args) {
 		System.out.println(c+d);
 	}
 	
+	String str = "Hello";
+	System.out.println(str);
 }
 
